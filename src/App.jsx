@@ -7,6 +7,8 @@ import Category from './components/Category'
 import TopRes from './components/TopRes'
 import Cart from './components/Cart'
 import Item from './components/Item'
+import Footer from './components/Footer'
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -17,6 +19,7 @@ function App() {
      <Category></Category>
      <TopRes></TopRes>
      <Item></Item>
+    <Footer></Footer>
     
     </>
   )

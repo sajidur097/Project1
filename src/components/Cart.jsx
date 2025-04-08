@@ -10,7 +10,8 @@ import Star from "./Star";
           <div className="w-[273px] shrink-0 grow mb-2">
             <div className=" group h-[182px] rounded-[15px] overflow-hidden relative">
               <img
-                className=" group-hover:scale-110 duration-150 object-cover w-full h-full"
+                className="group-hover:scale-110 duration-150  object-cover w-full h-full
+                "
                 src={
                   "http://localhost:5000/images/" + props.image
                 }
