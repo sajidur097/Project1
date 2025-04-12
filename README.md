@@ -7,6 +7,8 @@ A frontend-only clone of the Swiggy food delivery platform. This project replica
 - JavaScript
 - react js
 - tailwind css
+- Css
+  
 
 
 
